@@ -20,3 +20,7 @@ Ubuntu 18.04, ROS Melodic
 
 ## Test Vehicle
 ![image](https://user-images.githubusercontent.com/69629703/195503516-50dbae00-fb95-4b02-8f88-c4c1fb619946.png)
+
+## Reference
+* [NIA 49] Denoising data for improving Lida point group data in adverse weather conditions
+* [**Heinzler, R., Piewak, F., Schindler, P., & Stork, W. (2020). CNN-based Lidar Point Cloud De-Noising in Adverse Weather. IEEE Robotics and Automation Letters, 5(2), 2514-2521.**](https://arxiv.org/abs/1912.03874) 
