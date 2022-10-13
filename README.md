@@ -17,3 +17,6 @@ Ubuntu 18.04, ROS Melodic
 * LiDAR: .pcd
 * Camera: .png
 * GPS: .csv (Latitude, Longitude, Altitude, Speed, Heading, Angle, Roll, Pitch, etc.)
+
+## Test Vehicle
+![image](https://user-images.githubusercontent.com/69629703/195503516-50dbae00-fb95-4b02-8f88-c4c1fb619946.png)
